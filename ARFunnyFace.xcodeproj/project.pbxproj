@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2BB19D2A261755640065BF94 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8323EDA12438DB6900221CC5 /* ARFunnyFace.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARFunnyFace.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8323EDA42438DB6900221CC5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8323EDA62438DB6900221CC5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		8323ED982438DB6900221CC5 = {
 			isa = PBXGroup;
 			children = (
+				2BB19D2A261755640065BF94 /* README.md */,
 				8323EDA32438DB6900221CC5 /* ARFunnyFace */,
 				8323EDA22438DB6900221CC5 /* Products */,
 			);
@@ -103,7 +105,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1140;
 				LastUpgradeCheck = 1240;
-				ORGANIZATIONNAME = "Razeware LLC";
+				ORGANIZATIONNAME = saschasalles;
 				TargetAttributes = {
 					8323EDA02438DB6900221CC5 = {
 						CreatedOnToolsVersion = 11.4;
@@ -288,7 +290,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"ARFunnyFace/Preview Content\"";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 85Y7A7HSKG;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = ARFunnyFace/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
@@ -309,7 +311,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"ARFunnyFace/Preview Content\"";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 85Y7A7HSKG;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = ARFunnyFace/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
